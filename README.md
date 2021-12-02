@@ -16,7 +16,7 @@
  * redmi
 
 
-1.Mobile games
+1. Mobile games
     1. Bgmi
     2. Cod
     3. Coc
