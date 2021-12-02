@@ -10,18 +10,18 @@
 
 ***both bold and italic fontstyle***
 
-* Fruits
-  * apples
-  * bananas
-  * oranges
+*mobiles
+ * iphone
+ * samsung
+ * redmi
 
 
-1. Vegetables
-    1. Onions
-    2. carrots
-    3. chilli
+1.Mobile games
+    1. Bgmi
+    2. Cod
+    3. Coc
     
-[Google](https://www.google.com/)
+[Youtube](https://www.google.com/search?channel=fs&client=ubuntu&q=youtube)
 
 
 ![Charminar](https://cdn.theculturetrip.com/wp-content/uploads/2016/06/24498998325_f451c67aae_o.jpg)
@@ -32,3 +32,6 @@ sno|Name
 2|Vardhan
 
 > Quoting text
+
+#EMOJIS
+:angel:
